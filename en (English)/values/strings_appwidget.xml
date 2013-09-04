@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools"
     	   tools:locale="en">
     	   
-	<string name="appwidget_warning_format">Het ziet er naar ui dat je ^1 op de SD kaart hebt geinstalleerd.\n\nOmdat dit ervoor kan zorgen dat de widget verdwijnt, word het aangeraden dat je ^1 terug plaatst op het intern geheugen, als je gebruik wil maken van de widget</string> <!-- ^1 is the app name -->
+	<string name="appwidget_warning_format">Het ziet er naar uit dat je ^1 op de SD kaart hebt geinstalleerd.\n\nOmdat dit ervoor kan zorgen dat de widget verdwijnt, word het aangeraden dat je ^1 terug plaatst op het intern geheugen, als je gebruik wil maken van de widget</string> <!-- ^1 is the app name -->
 
     <string name="no_books_warning">Maak een boek aan voor je de widget installeerd</string>
     <string name="no_books_and_accounts_warning">Maak een rekening en een boek aan voor je de widget installeerd</string>
