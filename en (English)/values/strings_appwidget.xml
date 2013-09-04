@@ -2,28 +2,28 @@
 <resources xmlns:tools="http://schemas.android.com/tools"
     	   tools:locale="en">
     	   
-	<string name="appwidget_warning_format">It appears that you have ^1 currently installed on the SD card.\n\nSince this may cause the widgets to disappear, it is highly recommended that you move ^1 back to the device from the SD card, if you plan on making use of the widgets</string> <!-- ^1 is the app name -->
+	<string name="appwidget_warning_format">Het ziet er naar ui dat je ^1 op de SD kaart hebt geinstalleerd.\n\nOmdat dit ervoor kan zorgen dat de widget verdwijnt, word het aangeraden dat je ^1 terug plaatst op het intern geheugen, als je gebruik wil maken van de widget</string> <!-- ^1 is the app name -->
 
-    <string name="no_books_warning">Please create at least one book before dropping the widget</string>
-    <string name="no_books_and_accounts_warning">Please create at least one book and an account before dropping the widget</string>
-    <string name="no_accounts_warning">Please create at least one account before dropping the widget</string>
-    <string name="book_no_longer_exists_format">Book ^1 no longer exists</string>
-    <string name="account_no_longer_exists">Account no longer exists</string>
-    <string name="report_no_longer_exists">Report no longer exists</string>
-    <string name="budget_no_longer_exists_format">Budget ^1 no longer exists</string>
+    <string name="no_books_warning">Maak een boek aan voor je de widget installeerd</string>
+    <string name="no_books_and_accounts_warning">Maak een rekening en een boek aan voor je de widget installeerd</string>
+    <string name="no_accounts_warning">Maak een rekening aan voor je de widget installeerd</string>
+    <string name="book_no_longer_exists_format">Boek ^1 bestaat niet meer</string>
+    <string name="account_no_longer_exists">Rekening bestaat niet meer</string>
+    <string name="report_no_longer_exists">Rapport bestaat niet meer</string>
+    <string name="budget_no_longer_exists_format">Budget ^1 bestaat niet meer</string>
     
-    <string name="quick_entry">Quick entry</string>
-    <string name="app_name_quick_entry">anMoney — Quick entry</string>
-    <string name="app_name_quick_entry_large">anMoney — Quick entry (large)</string>
-    <string name="app_name_quick_entry_small">anMoney — Quick entry (small)</string>
-    <string name="show_total">Show the account total</string>
+    <string name="quick_entry">Snelle invoer</string>
+    <string name="app_name_quick_entry">anMoney — Snel invoeren</string>
+    <string name="app_name_quick_entry_large">anMoney — Snel invoeren (groot)</string>
+    <string name="app_name_quick_entry_small">anMoney — Snel invoeren (klein)</string>
+    <string name="show_total">Totaal van de rekening laten zien</string>
     <string name="opacity">Opacity</string>
 
-    <string name="app_name_upcoming">anMoney — Upcoming</string> <!-- as in Upcoming Bills -->
+    <string name="app_name_upcoming">anMoney — Aanstaande</string> <!-- as in Upcoming Bills -->
 
     <string name="app_name_budget">anMoney — Budget</string>
 
-    <string name="app_name_report">anMoney — Report</string>
+    <string name="app_name_report">anMoney — Rapport</string>
 
-	<string name="dash_clock_extension_description">Displays overdue bills or deposits, if any.</string>
+	<string name="dash_clock_extension_description">Laat rekeningen die te laat zijn zien, indien aanwezig.</string>
 </resources>
