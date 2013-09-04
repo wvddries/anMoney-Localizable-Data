@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="uncategorized_transactions">Uncategorized transactions</string>
-    <string name="uncategorized">Uncategorized</string>
-    <string name="income_uncategorized">Uncategorized income</string>
-    <string name="expense_uncategorized">Uncategorized expense</string>
-    <string name="show_uncategorized">Show uncategorized</string>
+    <string name="uncategorized_transactions">Categorieloze transactie</string>
+    <string name="uncategorized">Ongecategorieseerd</string>
+    <string name="income_uncategorized">Ongecategorieseerd inkomen</string>
+    <string name="expense_uncategorized">Ongecategorieseerde uitgaven</string>
+    <string name="show_uncategorized">Laat ongecategoriseerd zien</string>
 	<string-array name="uncategorized_count_plurals">
-        <item>^1 uncategorized transaction</item>
-        <item>^1 uncategorized transactions</item>
+        <item>^1 ongecategorieseerde transactie</item>
+        <item>^1 ongecategorieseerde transacties</item>
         <item/> <!-- Not used -->
 	</string-array>
-    <string name="recategorize_category">Recategorize all transactions with this category as</string>
+    <string name="recategorize_category">Alle transacties in deze categorie categoriezeren als</string>
 </resources>
