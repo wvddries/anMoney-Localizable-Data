@@ -89,39 +89,39 @@
     <string name="password_has_not_been_changed">Je wachtwoord is niet veranderd</string>
     <string name="passwords_dont_match">Wachtwoorden zijn niet hetzelfde</string>
     <string name="case_sensitive">Hoofdletter gevoelig</string>
-    <string name="disclaimer">Disclaimer</string>
+    <string name="disclaimer">Vrijwaring</string>
     <string name="password_disclaimer">Please read this disclaimer and check the box at end.\n\nNote that the password feature was designed as a way to provide privacy from “prying eyes.”  Due to the limitations of the platform, actual encryption of the data is not feasible and somebody with advanced skills could access your data even with a password present.\n\nIt is highly recommended that you protect your device with a lock pattern or PIN for additional security</string>
-    <string name="i_understand_the_limitations">I understand these limitations</string>
-    <string name="set_password_now_part1">Set a password now</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="i_understand_the_limitations">Ik begrijp de beperkingen</string>
+    <string name="set_password_now_part1">Nu een wachtwoord instellen</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="set_password_now_part2_format">Even if you answer ^1, you will have the option to set a password at any time by selecting ^2 from the menu at the top of the screen</string>
-    <string name="folder_name_format">Folder name (use ^1 for subfolders)</string>
-    <string name="no_backup_files">No backup files found</string>
+    <string name="folder_name_format">Folder naam (gebruik ^1 voor subfolders)</string>
+    <string name="no_backup_files">Geen backup bestanden gevonden</string>
     <string name="no_backup_files_new_instructions">If you are trying to create a book using an import file, please create a book from scratch first, then import into it</string>
     <string name="remove_transactions">Remove transactions older than the date below</string>
-    <string name="book_to_make_copy_of">Book to make a copy of</string>
+    <string name="book_to_make_copy_of">Boek om een kopie van te maken</string>
     <string name="truncate_warning_format">All transactions prior to ^1 will unrecoverably be destroyed</string>
-    <string name="information_and_help">Information &amp; help</string>
-    <string name="discussion_forum">Discussion forum</string>
+    <string name="information_and_help">Informatie &amp; help</string>
+    <string name="discussion_forum">Discussie forum</string>
     <string name="join_the_user_community_format">Join the ^1 users’ community</string>
-    <string name="contact_us">Contact us</string>
-    <string name="email_the_developers">Email the developers directly</string>
+    <string name="contact_us">Contacteer ons</string>
+    <string name="email_the_developers">Email de ontwikkelaars</string>
     <string name="tap_to_display_import_settings_format">Tapping ^1 will display the import settings screen</string>
     <string name="verify_import_settings">Please verify that the chosen default settings are, in fact, correct for the file you are importing. If everything looks good, press the <b>Back</b> arrow to continue with the import process</string>
     <string name="change_settings_instructions_format">This message will not appear for subsequent imports, but you can change the settings at any time by tapping ^i at the top of the screen</string> <!-- ^i will be replaced by an image -->
     <string name="bad_import_settings">The following setting(s) appear to be incorrect for the file you are trying to import</string>
     <string name="qif_csv_encoding_explanation_format">Typically ^1 should be used for the languages in the list below, but some financial institutions may produce files where ^2 has to be selected for them to import properly.\n\nFor all other languages NOT on the list, ^2 should always be selected</string>
-    <string name="credits_legal">Credits &amp; legal</string>
-    <string name="contact_and_social">Contact &amp; social</string>
-    <string name="follow_us">Follow us</string>
-    <string name="add_us_to_circle">Add us to your circles and +1 us</string>
-    <string name="become_a_fan">Become a fan</string>
+    <string name="credits_legal">Credits &amp; legaal</string>
+    <string name="contact_and_social">Contact &amp; sociaal</string>
+    <string name="follow_us">Volg ons</string>
+    <string name="add_us_to_circle">Volg ons toe aan je cirkel en +1 ons</string>
+    <string name="become_a_fan">Word fan</string>
     <string name="haptic_feedback">Haptic feedback</string>
     <string name="haptic_feedback_description">If selected, vibrate when tapping the buttons</string>
-	<string name="default_book_name">My book</string>
-	<string name="color_theme">Colour theme</string>
-	<string name="dark">Dark</string>  <!-- As in "dark color theme" -->
-	<string name="light">Light</string> <!-- As in "opposite of dark" -->
-	<string name="preview">Preview</string>
+	<string name="default_book_name">Mijn boek</string>
+	<string name="color_theme">Kleur thema</string>
+	<string name="dark">Donker</string>  <!-- As in "dark color theme" -->
+	<string name="light">Licht</string> <!-- As in "opposite of dark" -->
+	<string name="preview">Voorbeeld</string>
 	
 	<string-array name="book_new_source">
 	    <item>Create from scratch</item>
@@ -151,28 +151,28 @@
         <item>Readable by spreadsheet applications, such as Microsoft® Excel or Google™ Docs. The first row exported contains the column headers, followed by a row for each transaction. Each split gets its own row</item>
     </string-array>
 
-    <string name="import_file_confirm_format">Do you want to import ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="import_file_confirm_format">Wil je importeren ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
         <item/> <!-- Not used -->
         <item>Do you want to import the ^1 files</item> <!-- This is a question, but the question mark will be added progrmatically -->
         <item/> <!-- Not used -->
     </string-array>
 
-    <string name="general">General</string>
-    <string name="starting_screen">Starting screen</string>
-    <string name="negative_amount_format">Negative amount format</string>
+    <string name="general">Algemeen</string>
+    <string name="starting_screen">Start scherm</string>
+    <string name="negative_amount_format">Negatief bedrag formaat</string>
     
-    <string name="show_currency_symbol">Show currency symbol</string>
+    <string name="show_currency_symbol">Muntsoort symbool laten zien</string>
 	<string-array name="show_currency_symbol_items">
 		<item>According to the currency</item>
 		<item>Before the amount</item>
 		<item>After the amount</item>
 	</string-array>
 	
-    <string name="base_currency">Base currency</string>
-    <string name="space_between_symbol_and_amount">Space between the symbol and the amount</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
+    <string name="base_currency">Standaard munteenheid</string>
+    <string name="space_between_symbol_and_amount">Ruimte tussen het symbool en bedrag</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
     
-    <string name="password_time_out_period">Password time-out period</string>
+    <string name="password_time_out_period">Wachtwoord time-out periode</string>
 	<string-array name="n_seconds_format_plurals">
         <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
         <item>^1 seconds</item>
@@ -184,66 +184,66 @@
         <item/> <!-- Not used -->
 	</string-array>
     
-    <string name="set_button_behavior_format">^1 button behaviour</string>
+    <string name="set_button_behavior_format">^1 knop gedrag</string>
 	<string-array name="set_button_behavior_items">
 		<item>Sets the currently displayed number</item>
 		<item>Completes calculation and sets its result</item>
 	</string-array>
 
-    <string name="confirmations_and_warnings">Confirmations &amp; warnings</string>
+    <string name="confirmations_and_warnings">Gedrag &amp; waarschuwing</string>
 
-    <string name="warn_if_no_category">Warn, if no category</string>
-    <string name="warn_if_no_category_description">If selected, a warning is displayed when there is no category specified</string>
+    <string name="warn_if_no_category">Waarschuwen, indien geen categorie</string>
+    <string name="warn_if_no_category_description">Indien geselecteerd, er word een waarschuwing gegeven wanneer er geen categorie is geselcteers</string>
     
-    <string name="warn_if_incorrect_category_type">Warn, if incorrect category type</string>
-    <string name="warn_if_incorrect_category_type_description">If selected, a warning is displayed if the wrong type of category is specified</string>
+    <string name="warn_if_incorrect_category_type">Waarschuwen, bij fout categorie type</string>
+    <string name="warn_if_incorrect_category_type_description">Indien geselecteerd, er word een waarschuwing gegeven indien er een verkeerde categorie word geselecteerd</string>
     
-    <string name="modification_confirmation">Modification confirmation</string>
+    <string name="modification_confirmation">Modificatie bevestiging</string>
 	<string-array name="modification_confirmation_items">
 		<item>None</item>
 		<item>Reconciled only</item>
 		<item>All</item>
 	</string-array>
 	
-    <string name="back_press_prompt">Back press prompt</string>
-    <string name="back_press_prompt_description">If selected, an ask-to-save prompt is shown when the back button is pressed</string>
+    <string name="back_press_prompt">Terug toets opdracht</string>
+    <string name="back_press_prompt_description">Indien geselecteerd, er word eem vragen-om-opslaan scherm getoond als de terug toets word ingedrukt</string>
     
-    <string name="new_payee_confirmation">New payee confirmation</string>
-    <string name="new_payee_confirmation_description">If selected, a confirmation is shown before a new payee is created</string>
+    <string name="new_payee_confirmation">Nieuwe begunstigde bevestiging</string>
+    <string name="new_payee_confirmation_description">Indien geselecteerd, een bevestiging word getoond indien er een nieuwe begunstigde is gemaakt</string>
     
-    <string name="duplicate_check_number">Duplicate cheque number</string>
-    <string name="duplicate_check_number_description">If selected, a warning is displayed if the cheque number had already been used</string>
+    <string name="duplicate_check_number">Kopieer check nummer</string>
+    <string name="duplicate_check_number_description">Indien geselecteerd, er word een waarschuwing gegeven als het check nummer al eens gebruikt is</string>
     
-    <string name="field_with_initial_focus">Field with initial focus</string>
+    <string name="field_with_initial_focus">Veld met eerste focus</string>
     
-    <string name="show_keyboard_automatically">Show the keyboard automatically</string>
-	<string name="show_keyboard_automatically_description">If selected, the pop-up keyboard will be shown when adding a new transaction</string>
+    <string name="show_keyboard_automatically">Laat het toetsenbord automatisch zien</string>
+	<string name="show_keyboard_automatically_description">Indien geselecteerd, het pop-up toetsenbord komt tevoorschijn bij toevoegen van een nieuwe transactie</string>
 	    
-    <string name="notes_in_transaction_window">Notes in transaction window</string>
-    <string name="notes_in_transaction_window_description">If selected, a single line note can be edited in the transaction window</string>
+    <string name="notes_in_transaction_window">Notities in transactieveld</string>
+    <string name="notes_in_transaction_window_description">Indien geselecteerd, een enkele lijn notitie kan worden toegevoegd in het transactieveld</string>
     
-    <string name="new_category_in_transaction_window">New category in transaction window</string>
-    <string name="new_category_in_transaction_window_description">If selected, a new category can be created from within the transaction window</string>
+    <string name="new_category_in_transaction_window">Nieuwe categorie in transactieveld</string>
+    <string name="new_category_in_transaction_window_description">Indien geselecteerd, een nieuwe categorie kan gemaakt worden vanuit het transactieveld</string>
     
-    <string name="hide_labels">Hide labels</string>
-    <string name="hide_labels_description">If selected, labels in the transaction window can be hidden for more space</string>
+    <string name="hide_labels">Verberg labels</string>
+    <string name="hide_labels_description">Indien geselecteerd, labels in het transactieveld worden verborgen voor meer ruimte</string>
     
-    <string name="security">Security</string>
+    <string name="security">Beveiliging</string>
     
-    <string name="quick_entry_password">Quick Entry password</string>
-    <string name="quick_entry_password_description">If selected, the Quick Entry widget will ask for the password, if any</string>
+    <string name="quick_entry_password">Snel wachtwoord invoeren</string>
+    <string name="quick_entry_password_description">Indien geselecteerd, de snel toevoegen widget al om een wachtwoord vragen, indien aanwezig</string>
     
     <string name="backup_folder">Backup folder</string>
     
-    <string name="date_in_file_name">Date in file name</string>
-    <string name="date_in_file_name_description">If selected, today’s date will be appended to the file name when sending</string>
+    <string name="date_in_file_name">Datum in bestands naam</string>
+    <string name="date_in_file_name_description">Indien geselecteerd, de datum van vandaag zal worden toegevoegd in de bestands naam bij verzenden</string>
     
-    <string name="automatic_backup">Automatic backup</string>
-    <string name="automatic_backup_description">If selected, this book will be backed up automatically</string>
+    <string name="automatic_backup">Automatische backup</string>
+    <string name="automatic_backup_description">Indien geselecteerd, dit boek word automatisch geback-upt</string>
     
-    <string name="backup_how_often">Backup how often</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="backup_how_often">Hoevaak moet er een backup gemaakt worden</string> <!-- This is a question, but the question mark will be added progrmatically -->
     
-    <string name="auto_backup_notify_description">If selected, a notification will be displayed after the backup operation</string>
+    <string name="auto_backup_notify_description">Indien geselecteerd, een bericht word weergegeven na de backup</string>
     
 	<string name="backed_up_book_format">Backed up ^1</string>
     <string-array name="backed_up_books_format_plurals">
@@ -258,32 +258,32 @@
         <item/> <!-- Not used -->
     </string-array>
 
-	<string name="failed_to_back_up_book">Failed to backup book</string>
-	<string name="no_space_left_on_sd_card">There is no space left on the SD card</string>
+	<string name="failed_to_back_up_book">Geen backup van boek kunnen maken</string>
+	<string name="no_space_left_on_sd_card">Er is geen ruimte meer op de SD kaart</string>
 	<string name="cannot_restore_newer_version">Cannot restore the backup because it was created by a newer version of ^1.\n\nPlease install the latest version of ^1 and try again</string>
 		
-	<string name="file">File</string>	
+	<string name="file">Bestand</string>	
 	<string name="folder">Folder</string>	
-	<string name="external_storage">External storage</string>	
-	<string name="path">Path</string>	
+	<string name="external_storage">Externe opslage</string>	
+	<string name="path">Pad</string>	
 
     <string name="qif_csv_date_order">QIF/CSV date order</string>
 
-	<string name="comma">Comma</string>	
-    <string name="qif_csv_decimal_mark">QIF/CSV decimal mark</string>
+	<string name="comma">Komma</string>	
+    <string name="qif_csv_decimal_mark">QIF/CSV decimaal mark</string>
 	<string-array name="qif_csv_decimal_marks">
         <item>Decimal point</item>
         <item>@string/comma</item>
     </string-array>
 
-    <string name="csv_delimiter">CSV delimiter</string>
+    <string name="csv_delimiter">CSV scheidingsteken</string>
 	<string-array name="csv_delimiters">
         <item>@string/comma</item>
         <item>Semicolon</item>
     </string-array>
 
-	<string name="qif_csv_encoding">QIF/CSV encoding</string>
-    <string name="ofx_qfx_encoding">OFX/QFX/OFS encoding</string>
+	<string name="qif_csv_encoding">QIF/CSV codering</string>
+    <string name="ofx_qfx_encoding">OFX/QFX/OFS codering</string>
 	<string-array name="encodings">
         <item>@string/iso_8859_1</item>
         <item>@string/utf_8</item>
@@ -295,11 +295,11 @@
         <item>UTF-16LE (Unicode)</item>
 	</string-array>
 
-    <string name="maintain_entries">Maintain entries</string>
-    <string name="maintain_number_field_entries">Maintain number field entries</string>
-    <string name="maintain_number_field_entries_description">Allows you to delete no longer used transaction number field entries</string>
+    <string name="maintain_entries">Behoud invoering</string>
+    <string name="maintain_number_field_entries">Behoud number veld invoeren</string>
+    <string name="maintain_number_field_entries_description">Laat je invoeringen die niet meer gebruikt worden verwijderen</string>
 
-    <string name="delete_entry_warning_format">Entry ^1 will be deleted</string>
+    <string name="delete_entry_warning_format">Invoer ^1 zal worden verwijderd</string>
     <string-array name="delete_entries_warning_format_plurals">
         <item/> <!-- Not used -->
         <item>^1 entries will be deleted</item>
