@@ -13,142 +13,142 @@
     <string name="colon_format">^1:</string>
     <string name="two_part_slash_format">^1 / ^2</string>
     <string name="two_part_comma_format">^1, ^2</string>
-	<string name="default_name_format">^1 No. ^2</string> <!-- "Book No. 2" -->
+	<string name="default_name_format">^1 Nee. ^2</string> <!-- "Book No. 2" -->
     <string name="percent_sign">%</string>
     <string name="percentage_format">^1%</string>
 	<string name="plus_format">^1+</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
     <string name="quarter_format">Q^1 ^2</string> <!-- "Q1 2013" -->
-    <string name="filter_by_order_format">^1 by ^2</string> <!-- Example: "All accounts by name" -->
-    <string name="filter_by_direction_order_format">^1 by ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
-    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 by ^2 ^3 for ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
-    <string name="_continue">Continue</string>
-	<string name="continue_question">Continue</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="home">Home</string> <!-- Home screen -->
-	<string name="home_screen">Home screen</string>
-    <string name="previous">Previous</string>
-    <string name="next">Next</string>
-    <string name="_import">Import</string> <!-- This is a verb -->
-    <string name="imported">Imported</string>
-    <string name="import_canceled">Import cancelled</string>
-    <string name="export">Export</string> <!-- This is a verb -->
-    <string name="export_canceled">Export cancelled</string>
-	<string name="import_export">Import/export</string>
-    <string name="display_options">Display options</string>
-    <string name="add_favorite">Add to favourites</string>
-    <string name="added_to_favorites">Added to favourites</string>
-    <string name="remove">Remove</string>
-    <string name="remove_favorite">Remove from favourites</string>
-    <string name="removed_from_favorites">Removed from favourites</string>
-    <string name="save">Save</string> <!-- This is a verb -->
-    <string name="saved">Saved</string>
-    <string name="save_canceled">Save cancelled</string>
-    <string name="canceled">Cancelled</string>
-    <string name="delete">Delete</string>
-    <string name="deleted">Deleted</string>
-    <string name="delete_canceled">Delete cancelled</string>
-    <string name="create">Create</string>
-    <string name="created">Created</string>
-    <string name="create_canceled">Create cancelled</string>
-	<string name="create_what">Create what</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="edit">Edit</string>
-    <string name="edit_canceled">Edit cancelled</string>
-	<string name="edit_which">Edit which</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="copy">Copy</string>
-    <string name="copied">Copied</string>
-    <string name="move">Move</string> <!-- Move an item -->
-    <string name="moved">Moved</string>
-    <string name="duplicate">Duplicate</string>
-    <string name="duplicated">Duplicated</string>
-    <string name="rename">Rename</string>
-    <string name="renamed">Renamed</string>
-    <string name="rename_canceled">Rename cancelled</string>
+    <string name="filter_by_order_format">^1 door ^2</string> <!-- Example: "All accounts by name" -->
+    <string name="filter_by_direction_order_format">^1 door ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
+    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 door ^2 ^3 voor ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
+    <string name="_continue">Doorgaan</string>
+	<string name="continue_question">Doorgaan</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="home">Start</string> <!-- Home screen -->
+	<string name="home_screen">Start scherm</string>
+    <string name="previous">Vorige</string>
+    <string name="next">Volgende</string>
+    <string name="_import">Importeren</string> <!-- This is a verb -->
+    <string name="imported">Geimporteerd</string>
+    <string name="import_canceled">Importeren geannulleerd</string>
+    <string name="export">Exporteren</string> <!-- This is a verb -->
+    <string name="export_canceled">Exporteren geannulleerd</string>
+	<string name="import_export">Importeren/exporteren</string>
+    <string name="display_options">Weergave opties</string>
+    <string name="add_favorite">Toevoegen aan favorieten</string>
+    <string name="added_to_favorites">Toegevoegd aan favorieten</string>
+    <string name="remove">Verwijder</string>
+    <string name="remove_favorite">Verwijder van favorieten</string>
+    <string name="removed_from_favorites">Verwijderd van favorieten</string>
+    <string name="save">Opslaan</string> <!-- This is a verb -->
+    <string name="saved">Opgeslagen</string>
+    <string name="save_canceled">Opslaan geannulleerd</string>
+    <string name="canceled">Geannulleerd</string>
+    <string name="delete">Verwijderen</string>
+    <string name="deleted">Verwijderd</string>
+    <string name="delete_canceled">Verwijderen geannulleerd</string>
+    <string name="create">Maken</string>
+    <string name="created">Gemaakt</string>
+    <string name="create_canceled">Maken geannulleerd</string>
+	<string name="create_what">Wat maken</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="edit">Bewerken</string>
+    <string name="edit_canceled">Bewerken geannulleerd</string>
+	<string name="edit_which">Bewerken met</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="copy">Kopieren</string></string>
+    <string name="copied">Gekopieerd</string>
+    <string name="move">Verplaatsen</string> <!-- Move an item -->
+    <string name="moved">Verplaatst</string>
+    <string name="duplicate">Dupliceren</string>
+    <string name="duplicated">Gedupliceerd</string>
+    <string name="rename">Hernoemen</string>
+    <string name="renamed">Hernoemd</string>
+    <string name="rename_canceled">Hernoemen geannulleerd</string>
     <string name="link">Link</string>
-    <string name="linked">Linked</string>
-    <string name="combine">Combine</string>
-    <string name="combined">Combined</string>
-    <string name="copy_to_clipboard">Copy to clipboard</string>
+    <string name="linked">Gelinkd</string>
+    <string name="combine">Combineren</string>
+    <string name="combined">Gecombineerd</string>
+    <string name="copy_to_clipboard">Kopieren naar klembord</string>
     <string name="set">Set</string> <!-- Set a value -->
-	<string name="share">Share</string>
-	<string name="share_canceled">Share cancelled</string>
-    <string name="create_in_app_name_format">Create in ^1</string> <!-- Create in Contacts -->
-    <string name="pick_from_app_name_format">Pick from ^1</string> <!-- Pick from Contacts -->
-    <string name="do_not_ask_again">Do not ask again</string>
-    <string name="apply_to_all">Apply to all</string>
-	<string name="all_items">All items</string>
-    <string name="notes">Notes</string>
-    <string name="no_notes">No notes yet</string>
-    <string name="required">Required</string>
-    <string name="name">Name</string>
-    <string name="invalid_name">Invalid name</string>
-    <string name="name_exists">Name exists</string>
-    <string name="amount">Amount</string>
-    <string name="start_date">Start date</string>
-    <string name="end_date">End date</string>
-    <string name="must_be_less_than_format">Must be &lt; ^1</string>
-    <string name="must_be_greater_than_format">Must be > ^1</string>
-    <string name="reset">Reset</string>
-    <string name="total">Total</string>
-    <string name="grand_total">Grand total</string> <!-- Grand total amount -->
-    <string name="average">Average</string> <!-- Average amount -->
-    <string name="export_file_name">Export file name</string>
-    <string name="specify_export_file_name">Specify export file name</string>
-    <string name="file_exists">A file with that name already exists</string>
-    <string name="folder_exists">A folder with that name already exists</string>
-    <string name="choose_another_name">Choose another name</string>
-    <string name="will_be_overwritten">It will be overwritten</string>
-    <string name="calendar">Calendar</string>
-    <string name="remind_me">Remind me</string>
-    <string name="add_as_a_contact">Add as a contact</string>
+	<string name="share">Deel</string>
+	<string name="share_canceled">Delen geannulleerd</string>
+    <string name="create_in_app_name_format">Maak in ^1</string> <!-- Create in Contacts -->
+    <string name="pick_from_app_name_format">Kies uit ^1</string> <!-- Pick from Contacts -->
+    <string name="do_not_ask_again">Niet nogmaals vragen</string>
+    <string name="apply_to_all">Op alles toepassen</string>
+	<string name="all_items">Alle items</string>
+    <string name="notes">Notities</string>
+    <string name="no_notes">Nog geen notities</string>
+    <string name="required">Verplicht</string>
+    <string name="name">Naam</string>
+    <string name="invalid_name">Ongeldige naam</string>
+    <string name="name_exists">Naam bestaal al</string>
+    <string name="amount">Bedrag</string>
+    <string name="start_date">Start datum</string>
+    <string name="end_date">Eind datum</string>
+    <string name="must_be_less_than_format">Moet zijn &lt; ^1</string>
+    <string name="must_be_greater_than_format">Moet zijn > ^1</string>
+    <string name="reset">Herstel</string>
+    <string name="total">Totaal</string>
+    <string name="grand_total">Algemeen totaal</string> <!-- Grand total amount -->
+    <string name="average">Gemiddeld</string> <!-- Average amount -->
+    <string name="export_file_name">Naam exporteer bestand</string>
+    <string name="specify_export_file_name">Geef de export bestandsnaam</string>
+    <string name="file_exists">Er bestaat al een bestand met die naam</string>
+    <string name="folder_exists">Er bestaat al een folder met die naam</string>
+    <string name="choose_another_name">Kies een andere naam</string>
+    <string name="will_be_overwritten">Het zal worden overschreven</string>
+    <string name="calendar">Kalendar</string>
+    <string name="remind_me">Herrinner me</string>
+    <string name="add_as_a_contact">Voeg toe as kontact</string>
     <string name="to_from_format">^1 ^2</string> <!-- To <account>, From <account> -->
-    <string name="to">To</string> <!-- To <account> -->
-    <string name="from">From</string> <!-- From <account> -->
-	<string name="send_email">Send email</string>
-	<string name="please_read">Please read</string>
-	<string name="rate_app_format">Rate ^1</string> <!-- ^1 is app name -->
-	<string name="please_rate_app_format">Please take a moment\nto rate ^1</string> <!-- ^1 is app name -->
-	<string name="later_rate_description">You will be reminded in about a week</string>
-	<string name="no_rate_description_format">You can do this at any time from the ^1 screen</string> <!-- ^1 is "Settings" -->
-	<string name="task_killer_warning_format">Warning about “task killer” apps:\n\nYour device will “wake up” once a day to perform automatic processing. Since this processing only lasts a few seconds, it will not have a detrimental effect on the battery life of your device.\n\nTask killers can and will prevent this background processing from properly executing and should not be used with ^1</string> <!-- ^1 is app name -->
-	<string name="no_thanks">No, thanks</string>
-	<string name="maybe_later">Maybe later</string>
-	<string name="unexpected_error_warning">An unexpected error occurred forcing anMoney to stop.\n\nPlease help us fix this by emailing us an error report. You will have a chance to edit the email before it is sent.\n\nThanks for your cooperation.</string>
-    <string name="unexpected_error_notification_ticker">Unexpected error. Please send a report.</string>
-    <string name="unexpected_error_notification_title">anMoney has stopped</string>
-    <string name="unexpected_error_notification_text">Tap here to send a report.</string>
-    <string name="unexpected_error_comment">If you’d like, please describe what you were doing when the problem occurred</string>
-	<string name="archiving">Archiving</string>
-	<string name="archiving_settings">Archiving settings</string>
-    <string name="more">More</string>
-    <string name="specify_options">Specify options</string>
-	<string name="expand_all">Expand all</string>
-	<string name="all_expanded">All expanded</string>
-	<string name="collapse_all">Collapse all</string>
-	<string name="all_collapsed">All collapsed</string>
-    <string name="postal_address">Postal address</string>
-    <string name="postal_address_hint">Street\nTown\nPostal Code</string> <!-- Replace this with locale specific fields -->
-    <string name="cannot_perform_sd_card_operation">This operation cannot be performed right now as either there is no SD card in your device, or your device is currently connected to your computer making the SD card inaccessible</string>
-    <string name="cannot_perform_file_system_operation_format">This operation cannot be performed right now as the internal memory path (^1) is not accessible</string>
-    <string name="please_correct_and_try_again">Please correct and try again</string>
-    <string name="no_network_message_format">^1 requires periodic network access for license verification purposes.\n\nPlease enable the network, and, once you have data connection, try again. You may disable the network afterwards.\n\nTapping ^2 will take you to the ^3 settings</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen  -->
-    <string name="calculator">Calculator</string>
-    <string name="only_in_full_version">Only in the PRO version</string>
-    <string name="will_not_effect_transactions">This will <b>not</b> affect any existing transactions</string>
+    <string name="to">Naar</string> <!-- To <account> -->
+    <string name="from">Van</string> <!-- From <account> -->
+	<string name="send_email">Stuur email</string>
+	<string name="please_read">Lezen aub</string>
+	<string name="rate_app_format">Beoordeel ^1</string> <!-- ^1 is app name -->
+	<string name="please_rate_app_format">Neem aub een moment\nom te beoordelen ^1</string> <!-- ^1 is app name -->
+	<string name="later_rate_description">Je word er over een week aan herrinnerd</string>
+	<string name="no_rate_description_format">Je kan dit ten alle tijden doen vanaf het ^1 scherm</string> <!-- ^1 is "Settings" -->
+	<string name="task_killer_warning_format">Waarschuwing voor “task killer” apps:\n\nJe toestel zal een keer per dag "wakker" worden vanwege automatische processen. Omdat deze processen zeer kort duren zal dit geen invloed hebben op de batterij.\n\nTask killers kunnen en zullen deze processen verhinderen en kunnen niet gebruikte worden met ^1</string> <!-- ^1 is app name -->
+	<string name="no_thanks">Nee, bedankt</string>
+	<string name="maybe_later">Misschien later</string>
+	<string name="unexpected_error_warning">Een onverwachte fout zorgt ervoor dan Anmoney is gestopt.\n\nU kunt ons helpen dit op te lossen door een email te sturen een foutenrapport. Je kan de email bewerken voor hij word verstuurd.\n\nDank je voor je medewerking.</string>
+    <string name="unexpected_error_notification_ticker">Onverwachte storing. Stuur aub een rapport.</string>
+    <string name="unexpected_error_notification_title">anMoney is gestopt</string>
+    <string name="unexpected_error_notification_text">Tik hier om een rapport te sturen.</string>
+    <string name="unexpected_error_comment">Als je wil, beschrijf wat je deed toen de storing kwam</string>
+	<string name="archiving">Archiveren</string>
+	<string name="archiving_settings">Archivering instellingen</string>
+    <string name="more">Meer</string>
+    <string name="specify_options">Specificeer opties</string>
+	<string name="expand_all">Klap alles uit</string>
+	<string name="all_expanded">Alles uitgeklapt</string>
+	<string name="collapse_all">Alles inklappen</string>
+	<string name="all_collapsed">Alles ingeklapt</string>
+    <string name="postal_address">Post adres</string>
+    <string name="postal_address_hint">Straat\nStad\nPostcode</string> <!-- Replace this with locale specific fields -->
+    <string name="cannot_perform_sd_card_operation">Deze operatie kan nu niet worden uitgevoerd, ofwel is er geen SD-kaart in het apparaat, of het apparaat is momenteel aangesloten op uw computer waardoor de SD-kaart ontoegankelijk is</string>
+    <string name="cannot_perform_file_system_operation_format">Deze opdracht kan niet worden uitgevoerd om het het intern geheugen pad (^1) niet toegankelijk is</string>
+    <string name="please_correct_and_try_again">Verander en probeer nog een keer aub</string>
+    <string name="no_network_message_format">^1 moet regelmatig toegang tot het netwerk voor vergunningcontrole zijn. \ n \ nGelieve start het netwerk, en, als je eenmaal dataverbinding hebt, probeer het opnieuw. U kunt het netwerk daarna uitschakelen.\n\nTik ^2 brengt je naar ^3 instellingen</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen  -->
+    <string name="calculator">Rekenmachine</string>
+    <string name="only_in_full_version">Alleen in de PRO versie</string>
+    <string name="will_not_effect_transactions">Dit zal <b>geen</b> effect hebben op bestaande transacties</string>
     
-	<string name="free_limitations">Purchase the PRO version to remove the following limitations:\n\n
-	<li>No password security</li>\n
-	<li>No auto backups of your data</li>\n
-	<li>No custom reports</li>\n
-	<li>QIF imports only</li>\n
-	<li>No Contacts integration</li>\n
-	<li>At most 2 bank, 1 credit and 1 cash account</li>\n
-	<li>At most 5 budget items</li>\n
-	<li>At most 3 recurring bills or deposits</li> 
+	<string name="free_limitations">Koop PRO versie om de volgende beperkingen op te heffen:\n\n
+	<li>Geen wachtwoord beveiliging</li>\n
+	<li>Geen auto backups van je data</li>\n
+	<li>GEEN AANGEPASTE RAPPORTEN</li>\n
+	<li>Alleen QIF importeren</li>\n
+	<li>Geen kontakt integratie</li>\n
+	<li>Maximaal 2 bank, 1 credit card en 1 contant rekening</li>\n
+	<li>Maximaal 5 budget items</li>\n
+	<li>Maximaal 3 terugkomende rekeningen of stortingen</li> 
 	</string>
 
-	<string name="no_items">No items</string>
-    <string name="no_items_yet">No items yet</string>
+	<string name="no_items">Geen items</string>
+    <string name="no_items_yet">Geen items yet</string>
 	<string-array name="items_format_plurals"> <!-- Please contact us if you are unsure about the plurals -->
         <item/> <!-- Not used -->
         <item>^1 items</item>
@@ -156,55 +156,56 @@
 	</string-array>
     
     <string-array name="reminder_leads">
-        <item>Do not remind me</item>
-        <item>That day</item>
-        <item>Day before</item>
-        <item>Two days before</item>
-        <item>A week before</item>
-        <item>Two weeks before</item>
+        <item>Herrinner me niet</item>
+        <item>Die dag</item>
+        <item>De dag ervoor</item>
+        <item>Twee dagen ervoor</item>
+        <item>Een week ervoor</item>
+        <item>Twee weken ervoor</item>
     </string-array>
 
 	<string-array name="nth_day_of_the_month">
-		<item>1<sup><small>st</small></sup></item>
-		<item>2<sup><small>nd</small></sup></item>
-		<item>3<sup><small>rd</small></sup></item>
-		<item>4<sup><small>th</small></sup></item>
-		<item>5<sup><small>th</small></sup></item>
-		<item>6<sup><small>th</small></sup></item>
-		<item>7<sup><small>th</small></sup></item>
-		<item>8<sup><small>th</small></sup></item>
-		<item>9<sup><small>th</small></sup></item>
-		<item>10<sup><small>th</small></sup></item>
-		<item>11<sup><small>th</small></sup></item>
-		<item>12<sup><small>th</small></sup></item>
-		<item>13<sup><small>th</small></sup></item>
-		<item>14<sup><small>th</small></sup></item>
-		<item>15<sup><small>th</small></sup></item>
-		<item>16<sup><small>th</small></sup></item>
-		<item>17<sup><small>th</small></sup></item>
-		<item>18<sup><small>th</small></sup></item>
-		<item>19<sup><small>th</small></sup></item>
-		<item>20<sup><small>th</small></sup></item>
-		<item>21<sup><small>st</small></sup></item>
-		<item>22<sup><small>nd</small></sup></item>
-		<item>23<sup><small>rd</small></sup></item>
-		<item>24<sup><small>th</small></sup></item>
-		<item>25<sup><small>th</small></sup></item>
-		<item>26<sup><small>th</small></sup></item>
-		<item>27<sup><small>th</small></sup></item>
-		<item>28<sup><small>th</small></sup></item>
-		<item>29<sup><small>th</small></sup></item>
-		<item>30<sup><small>th</small></sup></item>
-		<item>31<sup><small>st</small></sup></item>
+		<item>1<sup><small>ste</small></sup></item>
+		<item>2<sup><small>de</small></sup></item>
+		<item>3<sup><small>de</small></sup></item>
+		<item>4<sup><small>de</small></sup></item>
+		<item>5<sup><small>de</small></sup></item>
+		<item>6<sup><small>de</small></sup></item>
+		<item>7<sup><small>de</small></sup></item>
+		<item>8<sup><small>ste</small></sup></item>
+		<item>9<sup><small>de</small></sup></item>
+		<item>9<sup><small>de</small></sup></item>
+		<item>10<sup><small>de</small></sup></item>
+		<item>11<sup><small>de</small></sup></item>
+		<item>12<sup><small>de</small></sup></item>
+		<item>13<sup><small>de</small></sup></item>
+		<item>14<sup><small>de</small></sup></item>
+		<item>15<sup><small>de</small></sup></item>
+		<item>16<sup><small>de</small></sup></item>
+		<item>17<sup><small>de</small></sup></item>
+		<item>18<sup><small>de</small></sup></item>
+		<item>19<sup><small>ste</small></sup></item>
+		<item>20<sup><small>ste</small></sup></item>
+		<item>21<sup><small>ste</small></sup></item>
+		<item>22<sup><small>ste</small></sup></item>
+		<item>23<sup><small>ste</small></sup></item>
+		<item>24<sup><small>ste</small></sup></item>
+		<item>25<sup><small>ste</small></sup></item>
+		<item>26<sup><small>ste</small></sup></item>
+		<item>27<sup><small>ste</small></sup></item>
+		<item>28<sup><small>ste</small></sup></item>
+		<item>29<sup><small>ste</small></sup></item>
+		<item>30<sup><small>ste</small></sup></item>
+		<item>31<sup><small>ste</small></sup></item>
 	</string-array>
 
-    <string name="display_direction">Display direction</string>
+    <string name="display_direction">Weergave richting</string>
 	<string-array name="sort_direction_items">
-		<item>Increasing</item>
-		<item>Decreasing</item>
+		<item>Oplopend</item>
+		<item>Aflopend</item>
 	</string-array>
 	<string-array name="sort_direction_title_bar">
-		<item>increasing</item>
-		<item>decreasing</item>
+		<item>aflopend</item>
+		<item>oplopend</item>
 	</string-array>
 </resources>
