@@ -30,17 +30,17 @@
     <string name="select_backup_file_to_restore">Kies welk backup bestand moet worden hesteld</string>
     <string name="select_backup_file_to_create_from">Kies het backup bestand om van te maken</string>
     <string name="import_statement">Import statement</string>
-    <string name="no_sd_card_inserted">TheEr is geen SD kaart aanwezig</string>
+    <string name="no_sd_card_inserted">Er is geen SD kaart aanwezig</string>
     <string name="select_files">Kies bestanden</string>
     <string name="delete_file">Verwijder bestand</string>
     <string name="delete_file_warning_format">Bestand ^1 zal worden verwijderd</string>
 	<string-array name="delete_files_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
-        <item>^1 selected files will be deleted</item>
+        <item>^1 Gekozen bestanden zullen worden verwijderd</item>
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Kies boek</string>
-    <string name="select_book_to_import_into">Kies het boek om to import statement into</string>
+    <string name="select_book_to_import_into">Kies het boek om in te importeren</string>
     <string name="select_import_file">Kies bestand(en) om te importeren</string>
     <string name="not_specified_brackets">&lt;Niet gespecifieceerd></string>
     <string name="map_accounts">Map rekeningen</string>
@@ -267,7 +267,7 @@
 	<string name="external_storage">Externe opslage</string>	
 	<string name="path">Pad</string>	
 
-    <string name="qif_csv_date_order">QIF/CSV date order</string>
+    <string name="qif_csv_date_order">QIF/CSV datumvolgorde</string>
 
 	<string name="comma">Komma</string>	
     <string name="qif_csv_decimal_mark">QIF/CSV decimaal markering</string>
