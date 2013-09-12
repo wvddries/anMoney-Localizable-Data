@@ -89,96 +89,95 @@
     <string name="transaction_modified_reconciled_message">Een bevestigde transactie zal worden aangepast</string>
     <string name="transaction_modified_related_reconciled_message">De andere kant van deze transactie, welke zal worden bewerkt, zal worden aangepast</string>
     <string name="records_may_differ">Hierdoor kunnen de rekeningen afwijken van die van de finaciele instellingen</string>
-    <string name="missing_category_warning_message_format">It is highly recommended that a category be specified, as without it, spending reports may be inaccurate.\n\nTap ^1 to save the transaction and leave the category unassigned, or ^2 to go back to editing the transaction</string>
-    <string name="expense_category_given_for_income_message_format">An expense category is specified for ^1.\n\nTap ^2 to leave the category as is, or ^3 to go back to editing the transaction</string> <!-- the ^1 parameter comes from amount1_description array -->
-    <string name="income_category_given_for_expense_message_format">An income category is specified for ^1.\n\nTap ^2 to leave the category as is, or ^3 to go back to editing the transaction</string> <!-- the ^2 parameter comes from amount2_description array -->
-    <string name="payee_not_found_format">Payee ^1 not found</string>
-    <string name="payer_not_found_format">Payer ^1 not found</string>
-    <string name="would_you_like_to_create_it">Would you like to create it</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="amount_zero_warning_message_format">The transaction amount is zero.\n\nTap ^1 to leave the amount zero, or ^2 to enter a voided transaction</string>
-    <string name="sum_of_splits_warning_message_format">The sum of the splits does not match the transaction amount.\n\nTap ^1 to edit the splits</string>
-    <string name="duplicate_number_message_format">A transaction dated ^1 is already using this cheque number.\n\nTap ^2 to reuse the cheque number, or ^3 to go back to editing the transaction</string>
-    <string name="leave_zero">Leave 0</string>
-    <string name="credits">Credits</string>
-    <string name="no_credits">No credits</string>
-    <string name="deposits">Deposits</string>
-    <string name="no_deposits">No deposits</string>
+    <string name="missing_category_warning_message_format">Het is sterk aanbevolen dat een categorie worden opgegeven, want zonder  kunnen uitgaven rapporten onnauwkeurig zijn.\n\nTik ^1 om de transactie op te slaan en de categorie niet-toe te wijzen, of ^2 om terug te gaan en de transactie te bewerken</string>
+    <string name="expense_category_given_for_income_message_format">Een categorie kosten is opgegeven voor ^ 1. \ n \ nTik ^ 2 om de categorie laten zoals hij is, of ^ 3 om terug te gaan om de transactie te bewerken</string> <!-- the ^1 parameter comes from amount1_description array -->
+    <string name="income_category_given_for_expense_message_format">Een categorie inkomen is opgegeven voor ^ 1. \ n \ nTik ^ 2 om de categorie laten zoals hij is, of ^ 3 om terug te gaan om de transactie te bewerken</string> <!-- the ^2 parameter comes from amount2_description array -->
+    <string name="payee_not_found_format">Begunstigde ^1 niet gevonden</string>
+    <string name="payer_not_found_format">Betaler ^1 niet gevonden</string>
+    <string name="amount_zero_warning_message_format">Het transactiebedrag is nul.\n\nTik ^1 om het bedrag nul te laten, of ^2 een nietige transactie aan te gaan</string>
+    <string name="sum_of_splits_warning_message_format">De som van de splitsingen komt niet overeen het transactiebedrag.\n\nTik ^1 om de splitsing te bewerken</string>
+    <string name="duplicate_number_message_format">Een transactie met de dtum ^1 gebruikt dit cheque nummer al.\n\nTik ^2 om het nummer nog een keer te gebruiken, of ^3 om terug te gaan om de transactie te bewerken</string>
+    <string name="leave_zero">Laat 0</string>
+    <string name="credits">Credieten</string>
+    <string name="no_credits">Geen credieten</string>
+    <string name="deposits">Stortingen</string>
+    <string name="no_deposits">Geen stortingen</string>
     <string name="checks">Cheques</string> <!-- As in check book -->
-    <string name="no_checks">No cheques</string> <!-- As in check book -->
-    <string name="charges">Charges</string>
-    <string name="no_charges">No charges</string>
-    <string name="payments">Payments</string>
-    <string name="no_payments">No payments</string>
-    <string name="checks_payments">Cheques &amp; Payments</string>
-    <string name="no_checks_payments">No cheques or payments</string>
-    <string name="deposits_payments">Deposits &amp; Payments</string>
-    <string name="no_deposits_payments">No deposits or payments</string>
-    <string name="no_unreconciled_transactions">No unreconciled transactions</string>
-    <string name="cleared_all_transactions">Cleared all transactions</string>
-    <string name="next_check_number">Next cheque number</string>
-    <string name="cleared_transactions_color">Cleared transactions colour</string> <!-- As in "color of cleared transactions" -->
-    <string name="reconciled_transactions_color">Reconciled transactions colour</string> <!-- As in "color of teconciled transactions" -->
+    <string name="no_checks">Geen cheques</string> <!-- As in check book -->
+    <string name="charges">Kosten</string>
+    <string name="no_charges">Geen kosten</string>
+    <string name="payments">Betalingen</string>
+    <string name="no_payments">Geen betalingen</string>
+    <string name="checks_payments">Cheques &amp; Betalingen</string>
+    <string name="no_checks_payments">Geen cheques of betalingen</string>
+    <string name="deposits_payments">Stortingen &amp; Betalingen</string>
+    <string name="no_deposits_payments">Geen stortingen of betalingen</string>
+    <string name="no_unreconciled_transactions">Geen onverzoende transacties</string>
+    <string name="cleared_all_transactions">Alle transacties leeg gemaakt</string>
+    <string name="next_check_number">Volgend cheque nummer</string>
+    <string name="cleared_transactions_color">Kleur gecontroleerde transactie</string> <!-- As in "color of cleared transactions" -->
+    <string name="reconciled_transactions_color">Kleur verzoende transactie</string> <!-- As in "color of teconciled transactions" -->
     <string name="text_filter">Text filter</string>
-    <string name="profit_and_loss_statement">Profit &amp; Loss statement</string>
-	<string name="transaction_type">Transaction type</string>
-	<string name="transaction_status">Transaction status</string>
+    <string name="profit_and_loss_statement">Winst &amp; Verliesrekening</string>
+	<string name="transaction_type">Transactie type</string>
+	<string name="transaction_status">Transactie status</string>
 
-    <string name="full_screen_mode">Full screen mode</string>
-    <string name="full_screen_mode_description">More transactions are visible, if checked</string>
+    <string name="full_screen_mode">Volledig scherm mode</string>
+    <string name="full_screen_mode_description">Meer transacties zijn zichtbaar, indien aangevinkt</string>
 
 	<string-array name="amount1_labels">
-        <item>Payment</item>
-        <item>Spend</item>
-        <item>Charge</item>
-        <item>Payment</item>
-        <item>Increase</item>
-        <item>Decrease</item>
-        <item>Withdrawal</item>
+        <item>Betaling</item>
+        <item>Uitgegeven</item>
+        <item>Kosten</item>
+        <item>Betaling</item>
+        <item>Oplopend</item>
+        <item>Verlagend</item>
+        <item>Opname</item>
     </string-array>
 	<string-array name="amount1_description"> <!-- Used as ^1 in income_category_given_for_expense_message_format -->
-        <item>the payment</item>
-        <item>the spending</item>
-        <item>the charge</item>
-        <item>the payment</item>
-        <item>the increase</item>
-        <item>the decrease</item>
-        <item>the withdrawal</item>
+        <item>de betaling</item>
+        <item>de uitgave</item>
+        <item>de kosten</item>
+        <item>de betaling</item>
+        <item>het oplopend</item>
+        <item>het verlagend</item>
+        <item>de opname</item>
     </string-array>
 	<string-array name="amount2_labels">
-        <item>Deposit</item>
-        <item>Receive</item>
-        <item>Credit</item>
-        <item>Principal receipt</item>
-        <item>Decrease</item>
-        <item>Increase</item>
-        <item>Deposit</item>
+        <item>Storting</item>
+        <item>Ontvangen</item>
+        <item>Crediet</item>
+        <item>Belangrijkste ontvangst</item>
+        <item>Aflopend</item>
+        <item>Oplopend</item>
+        <item>Storting</item>
     </string-array>
 	<string-array name="amount2_description"> <!-- Used as ^1 in expense_category_given_for_expense_message_format -->
-        <item>the deposit</item>
-        <item>the receipt</item>
-        <item>the credit</item>
-        <item>the principal receipt</item>
-        <item>the decrease</item>
-        <item>the increase</item>
-        <item>the deposit</item>
+        <item>de storting</item>
+        <item>het ontvangst</item>
+        <item>het crediet</item>
+        <item>het belangrijkste ontvangst</item>
+        <item>de verlaging</item>
+        <item>het oplopend</item>
+        <item>de storting</item>
     </string-array>
 
 	<string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
-        <item>^1 selected transactions will be deleted</item>
+        <item>^1 gekozen transactie zal worden verwijderd</item>
         <item/> <!-- Not used -->
 	</string-array>
-    <string name="delete_transaction_warning_all"><b>All</b> transactions will be deleted</string>
-	<string name="delete_transaction_warning_reconciled">A reconciled transaction will be deleted</string>
+    <string name="delete_transaction_warning_all"><b>Alle</b> transacties zullen worden verwijderd</string>
+	<string name="delete_transaction_warning_reconciled">Een verzoende transactie zal worden verwijderd</string>
     <string-array name="delete_transaction_warning_reconciled_format_plurals">
         <item/> <!-- Intentionally left empty -->
-        <item>^1 selected transactions will be deleted, at least one of which is reconciled</item>
+        <item>^1 geselecteerde transacties zullen worden verwijderd, tenminste een ervan is verzoend</item>
         <item/> <!-- Not used -->
 	</string-array>
 	<string name="accept_transaction_confirm_singular">Transaction will be accepted</string>
     <string-array name="accept_transaction_confirm_format_plurals">
         <item/> <!-- Intentionally left empty -->
-        <item>^1 selected transactions will be accepted</item>
+        <item>^1 geselecteerde transacties worden geaccepteerd</item>
         <item/> <!-- Not used -->
 	</string-array>
 </resources>
